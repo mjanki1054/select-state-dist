@@ -1,0 +1,72 @@
+{
+    "states": [
+      {
+        "value": "",
+        "label": "Select a state"
+      },
+      {
+        "value": "jharkhand",
+        "label": "Jharkhand",
+        "districts": [
+          { "value": "", "label": "Select a district" },
+          { "value": "ranchi", "label": "Ranchi District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_ranchi", "label": "Block 1 - Ranchi" },
+              { "value": "block2_ranchi", "label": "Block 2 - Ranchi" },
+              { "value": "block3_ranchi", "label": "Block 3 - Ranchi" }
+            ]
+          },
+          { "value": "jamshedpur", "label": "Jamshedpur District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_jamshedpur", "label": "Block 1 - Jamshedpur" },
+              { "value": "block2_jamshedpur", "label": "Block 2 - Jamshedpur" },
+              { "value": "block3_jamshedpur", "label": "Block 3 - Jamshedpur" }
+            ]
+          }
+        ]
+      },
+      {
+        "value": "bihar",
+        "label": "Bihar",
+        "districts": [
+          { "value": "", "label": "Select a district" },
+          { "value": "patna", "label": "Patna District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_patna", "label": "Block 1 - Patna" },
+              { "value": "block2_patna", "label": "Block 2 - Patna" },
+              { "value": "block3_patna", "label": "Block 3 - Patna" }
+            ]
+          },
+          { "value": "gaya", "label": "Gaya District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_gaya", "label": "Block 1 - Gaya" },
+              { "value": "block2_gaya", "label": "Block 2 - Gaya" },
+              { "value": "block3_gaya", "label": "Block 3 - Gaya" }
+            ]
+          }
+        ]
+      },
+      {
+        "value": "bengaluru",
+        "label": "Bengaluru",
+        "districts": [
+          { "value": "", "label": "Select a district" },
+          { "value": "central", "label": "Central District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_central", "label": "Block 1 - Central" },
+              { "value": "block2_central", "label": "Block 2 - Central" },
+              { "value": "block3_central", "label": "Block 3 - Central" }
+            ]
+          },
+          { "value": "south", "label": "South District", "blocks": [
+              { "value": "", "label": "Select a block" },
+              { "value": "block1_south", "label": "Block 1 - South" },
+              { "value": "block2_south", "label": "Block 2 - South" },
+              { "value": "block3_south", "label": "Block 3 - South" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
